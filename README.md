@@ -6,7 +6,8 @@ End-to-end data analysis project: from raw CSV files to a relational database in
  
 **Tools:** MySQL · Power BI · DAX  
 **Skills:** Database design · SQL · Data modeling · Business storytelling
- 
+
+![Dashboard overview](05_powerbi_dashboard/Dashboard_screenshot.png) 
 ---
  
 ## What this project does
