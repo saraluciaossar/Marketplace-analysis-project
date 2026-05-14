@@ -1,5 +1,5 @@
 # Análisis de transacciones de un marketplace
-> 📄 [English version available here](README.md)
+> [English version available here](README.md)
  
 Proyecto de análisis de datos end-to-end: desde archivos CSV en bruto hasta una base de datos relacional en MySQL y un dashboard interactivo en Power BI que explora cinco años de datos de ventas (2020–2024).
  
