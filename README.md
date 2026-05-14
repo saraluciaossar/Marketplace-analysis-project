@@ -1,6 +1,6 @@
 # Marketplace Transactions Analysis
  
-> 📄 [Versión en español disponible aquí](README_es.md)
+> 📄 [Versión en español disponible aquí](README-ES.md)
  
 End-to-end data analysis project: from raw CSV files to a relational database in MySQL and an interactive Power BI dashboard exploring five years of sales data (2020–2024).
  
