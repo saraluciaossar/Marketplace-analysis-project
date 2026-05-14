@@ -5,7 +5,8 @@ Proyecto de análisis de datos end-to-end: desde archivos CSV en bruto hasta una
  
 **Herramientas:** MySQL · Power BI · DAX  
 **Habilidades:** Diseño de bases de datos · SQL · Modelado de datos · Storytelling con datos
- 
+
+![Dashboard overview](05_powerbi_dashboard/Dashboard_screenshot/overview.png)
 ---
  
 ## Qué hace este proyecto
